@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpgradeParadeTest.Server", "UpgradeParadeTest.Server\UpgradeParadeTest.Server.csproj", "{4121D776-E451-4C57-895E-67A60926EE9D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "upgradeparadetest.client", "upgradeparadetest.client\upgradeparadetest.client.esproj", "{2744B47E-CBBB-4E8E-AC48-60C8898D0B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4121D776-E451-4C57-895E-67A60926EE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4121D776-E451-4C57-895E-67A60926EE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4121D776-E451-4C57-895E-67A60926EE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4121D776-E451-4C57-895E-67A60926EE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2744B47E-CBBB-4E8E-AC48-60C8898D0B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2744B47E-CBBB-4E8E-AC48-60C8898D0B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2744B47E-CBBB-4E8E-AC48-60C8898D0B46}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2744B47E-CBBB-4E8E-AC48-60C8898D0B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2744B47E-CBBB-4E8E-AC48-60C8898D0B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2744B47E-CBBB-4E8E-AC48-60C8898D0B46}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071CFF6E-4322-40B2-B5F3-C50B00566FF0}
+	EndGlobalSection
+EndGlobal

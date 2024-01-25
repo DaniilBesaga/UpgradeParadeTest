@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\FullstackDevelopment\\UpgradeParadeTest\\UpgradeParadeTest.Server\\..\\upgradeparadetest.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
